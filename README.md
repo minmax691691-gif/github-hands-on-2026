@@ -2,9 +2,9 @@
 Our GitHub Team Wall
 
 Group 1
-Name:-
-Topic:-
-GitHub Username:-
+Name:- Madhav 
+Topic:- LinkedIn Profile
+GitHub Username:- Madhavavadhani
 
 Group 2
 Name:- Athriya 
